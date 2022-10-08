@@ -1,0 +1,3 @@
+How to find the different props which we can pass to the required component of material-ui
+Go to API section in the material ui page for the type of components you are going to use in your project, and there you will get to the all the different props for that particular components tag in material UI
+
