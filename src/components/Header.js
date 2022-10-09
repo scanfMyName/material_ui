@@ -47,11 +47,11 @@ function createData(name, calories, fat, doNH) {
 }
 
 const rows = [
-  createData("Frozen yoghurt", 0, 1, 0),
-  createData("Ice cream sandwich", 1, 0, 1),
-  createData("Eclair", 0, 1, 0),
-  createData("Cupcake", 0, 1, 1),
-  createData("Gingerbread", 0, 1, 1),
+  createData("Property 1", 0, 1, 0),
+  createData("Property 2", 1, 0, 1),
+  createData("Property 3", 0, 1, 0),
+  createData("Property 4", 0, 1, 1),
+  createData("Property 5", 0, 1, 1),
 ];
 
 export default function CustomizedTables() {
